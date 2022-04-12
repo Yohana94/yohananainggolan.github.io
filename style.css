@@ -1,0 +1,19 @@
+body {
+  background-color: #e7008a;
+}
+.jumbotron {
+  padding-top: 9rem;
+  background-color: rgb(251, 208, 215);
+}
+#about {
+  background-color: #e7008a;
+}
+#projects {
+  background-color: rgb(251, 208, 215);
+}
+footer {
+  background-color: rgb(251, 208, 215);
+}
+section {
+  padding-top: 5rem;
+}
